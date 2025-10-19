@@ -62,7 +62,11 @@ Some OLED displays may require a different library.
 If your display does not work with U8g2lib, try using Adafruit_SSD1306 together with Adafruit_GFX libraries instead.
 Always check your OLED model and the library examples to confirm proper wiring and initialization.
 
-https://github.com/user-attachments/assets/cba11532-d3ec-48c6-8b3d-3f9aeffc1473a
+
+
+https://github.com/user-attachments/assets/9fdc2306-7b23-4a90-a9e8-64ba587e32ff
+
+
 
 
   This project is licensed under the **MIT License** - see the LICENSE file for details
